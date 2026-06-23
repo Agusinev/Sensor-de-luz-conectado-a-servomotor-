@@ -8,7 +8,7 @@ Nuestro sistema busca poder utilizar sensores de luz para permitir que el servom
 | Franco Lombardi | Software / Firmware | |
 ## Descripcion del Problema
 El principal problema es la ineficiencia hasta cierto punto de que la recoleccion de luz solar no fuera suficiente estando inmovil, por ende, mejorando el sistema para permitir una rotacion que ademas complemente la funcion de estar apuntando al sol.
-## Arquitectura del Sistema
+## Arquitectura del Sistema (EJEMPLO CAMBIAR)
 Sensor PM2 .5 -> ESP32 -> Firebase -> Dashboard Node - RED (EJEMPLO, CAMBIAR)
 ## Instrucciones de Uso (EJEMPLO CAMBIAR)
 ### Cargar el firmware
