@@ -9,7 +9,7 @@ Nuestro sistema busca poder utilizar sensores de luz para permitir que el servom
 
 | --- Joaquin Nilo --- |  |  |
 
-| -Franco Lombardi- | ------Software / Firmware------| |
+| -Franco Lombardi- | ------Software / Firmware------|@francolombardi-123 | 
 
 ## Descripcion del Problema
 El principal problema es la ineficiencia hasta cierto punto, dado que la recoleccion de luz solar no es suficiente estando inmovil, por ende, buscando una solucion que permita al sistema rotar entorno a mirar a una fuente de luz, en este caso el sol
