@@ -7,7 +7,7 @@ Nuestro sistema busca poder utilizar sensores de luz para permitir que el servom
 
 | --Agustin Bratti --- | ---------Diseño 3D----------| --- @Agusinev --- |
 
-| --- Joaquin Nilo --- | ----------Hardware---------- |  |
+| --- Joaquin Nilo --- |  |  |
 
 | -Franco Lombardi- | ------Software / Firmware------| |
 
