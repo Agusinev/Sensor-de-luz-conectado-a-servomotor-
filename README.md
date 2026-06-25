@@ -2,16 +2,21 @@
 Nuestro sistema busca poder utilizar sensores de luz para permitir que el servomotor gire en direccion donde hay mas luz, esto luego puediendo ser aplicado a por ejemplo, sistemas que requieran luz directa.
 ## Equipo
 | Integrante | Rol | GitHub |
+
 | - - - - - - - - - - - - -| - - - - - - - - - - - - - - - - - - -| - - - - - - - - - - - -|
-| Agustin Bratti           | Diseño 3D | @Agusinev |
-| Joaquin Nilo | Hardware |  |
-| Franco Lombardi | Software / Firmware | |
+
+| --Agustin Bratti --- | ---------Diseño 3D----------| --- @Agusinev --- |
+
+| --- Joaquin Nilo --- | ----------Hardware---------- |  |
+
+| -Franco Lombardi- | ------Software / Firmware------| |
+
 ## Descripcion del Problema
-El principal problema es la ineficiencia hasta cierto punto de que la recoleccion de luz solar no fuera suficiente estando inmovil, por ende, mejorando el sistema para permitir una rotacion que ademas complemente la funcion de estar apuntando al sol.
+El principal problema es la ineficiencia hasta cierto punto, dado que la recoleccion de luz solar no es suficiente estando inmovil, por ende, buscando una solucion que permita al sistema rotar entorno a mirar a una fuente de luz, en este caso el sol
 ## Arquitectura del Sistema (EJEMPLO CAMBIAR)
 Sensor PM2 .5 -> ESP32 -> Firebase -> Dashboard Node - RED (EJEMPLO, CAMBIAR)
 ## Instrucciones de Uso (EJEMPLO CAMBIAR)
-### Cargar el firmware
+### Cargar el firmware (CAMBIAR)
 1. Abre ‘ firmware / main . ino ‘ en Arduino IDE
 2. Instala las librerias listadas en ‘ FUENTES . md ‘
 3. Configura las credenciales WiFi en ‘ config .h ‘
