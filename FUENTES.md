@@ -1,5 +1,5 @@
 # Fuentes del Proyecto
-## Librerias utilizadas (CAMBIAR)
+## Librerias utilizadas
 
 Arduino (arduino_seguidor.ino)
 Librería
@@ -16,7 +16,7 @@ Servo.h Controlar el servo GS-3630BB desde el pin D1
 - Fuente : randomnerdtutorials . com
 - Adaptacion : espera 500 ms -> 2000 ms ;
 reintentos maximos (5) .
-## Uso de Inteligencia Artificial  (CAMBIAR)
+## Uso de Inteligencia Artificial
 - Herramienta : Grok (Mayo 2026), Claude (Junio 2026)
 - Prompt : Ayudame a crear un seguidor del sol movil con un servomotor y 2 sensores LDR
 - Adaptacion : Ayudas de conexion de cables, fallas en la API.
