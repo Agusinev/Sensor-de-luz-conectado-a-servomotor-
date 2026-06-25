@@ -3,7 +3,7 @@ Nuestro sistema busca poder utilizar sensores de luz para permitir que el servom
 ## Equipo
 | Integrante | Rol | GitHub |
 | - - - - - - - - - - - - -| - - - - - - - - - - - - - - - - - - -| - - - - - - - - - - - -|
-| Agustin Bratti | Diseño 3D | @Agusinev |
+| Agustin Bratti           | Diseño 3D | @Agusinev |
 | Joaquin Nilo | Hardware |  |
 | Franco Lombardi | Software / Firmware | |
 ## Descripcion del Problema
