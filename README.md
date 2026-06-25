@@ -14,8 +14,9 @@ Nuestro sistema busca poder utilizar sensores de luz para permitir que el servom
 ## Descripcion del Problema
 El principal problema es la ineficiencia hasta cierto punto, dado que la recoleccion de luz solar no es suficiente estando inmovil, por ende, buscando una solucion que permita al sistema rotar entorno a mirar a una fuente de luz, en este caso el sol
 ## Arquitectura del Sistema (EJEMPLO CAMBIAR)
-Sensor PM2 .5 -> ESP32 -> Firebase -> Dashboard Node - RED (EJEMPLO, CAMBIAR)
+Sensor pwr led 4 pin fotosensible -> ESP32 -> Firebase -> Dashboard Node - RED -> Servomotor gs360
 ## Instrucciones de Uso (EJEMPLO CAMBIAR)
+Mediante sensores de luz, subir codigo a arduino, al detectar mayores niveles de luz el servomotor girara.
 ### Cargar el firmware (CAMBIAR)
 1. Abre ‘ firmware / main . ino ‘ en Arduino IDE
 2. Instala las librerias listadas en ‘ FUENTES . md ‘
